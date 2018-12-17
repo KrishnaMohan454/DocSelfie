@@ -1,0 +1,6 @@
+framework module DocumentSelfieFramework {
+  umbrella header "DocumentSelfieFramework.h"
+
+  export *
+  module * { export * }
+}
